@@ -1,0 +1,15 @@
+/node_modules
+/public/storage
+/vendor
+/.idea
+/_materials
+/nbproject
+/public/files
+npm-debug.log
+Homestead.json
+Homestead.yaml
+.env
+/public/build
+/public/css
+/public/js
+/public/fonts
