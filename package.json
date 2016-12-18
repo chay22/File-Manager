@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/chay22/File-Manager/issues"
   },
-  "homepage": "https://github.com/chay22/File-Manager#readme"
+  "homepage": "https://github.com/chay22/File-Manager#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^6.0.0-15"
+  }
 }
